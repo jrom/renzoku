@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'renzoku/cli'
+Renzoku::CLI.start
+
